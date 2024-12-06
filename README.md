@@ -2,7 +2,7 @@
 
 This repository contains the solution to LeetCode Problem #235: Lowest Common Ancestor of a Binary Search Tree.
 
-Problem Statement:
+# Problem Statement:
 Given a Binary Search Tree (BST), find the Lowest Common Ancestor (LCA) of two given nodes p and q.
 
 The LCA is defined as the lowest node in the BST that has both p and q as descendants (a node can be a descendant of itself).
@@ -19,7 +19,7 @@ Example 3:
 Input: root = [2,1], p = 2, q = 1  
 Output: 2
 
-Constraints:
+# Constraints:
 
 The number of nodes in the tree is in the range [2, 105].
 
@@ -31,7 +31,7 @@ p != q
 
 p and q will exist in the BST.
 
-Solution:
+# Solution:
 The solution is implemented in Java. It uses the properties of a Binary Search Tree to efficiently find the Lowest Common Ancestor:
 
 Recursive Approach:
