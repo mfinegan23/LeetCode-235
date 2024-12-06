@@ -43,10 +43,12 @@ If p and q lie on either side of the current node (or one of them is equal to th
 # How to Run
 Clone the Repository:
 
+
 git clone https://github.com/your-username/lowest-common-ancestor-bst.git
 cd lowest-common-ancestor-bst
 
 Compile the Code: Ensure you have Java installed on your machine. 
+
 Compile the Solution.java file: javac Solution.java
 
 Run the Solution: Create test cases for the lowestCommonAncestor method in a main function, or integrate it with a testing framework to verify its correctness.
