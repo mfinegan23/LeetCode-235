@@ -44,7 +44,7 @@ If p and q lie on either side of the current node (or one of them is equal to th
 Clone the Repository:
 
 
-git clone https://github.com/your-username/lowest-common-ancestor-bst.git
+git clone https://github.com/your-username/LeetCode-235.git
 
 cd lowest-common-ancestor-bst
 
