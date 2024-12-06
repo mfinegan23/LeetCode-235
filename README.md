@@ -38,3 +38,19 @@ Recursive Approach:
 If both p and q are less than the current node's value, the LCA lies in the left subtree.
 If both p and q are greater than the current node's value, the LCA lies in the right subtree.
 If p and q lie on either side of the current node (or one of them is equal to the current node), the current node is the LCA.
+
+
+# How to Run
+Clone the Repository:
+git clone https://github.com/your-username/lowest-common-ancestor-bst.git
+cd lowest-common-ancestor-bst
+
+Compile the Code: Ensure you have Java installed on your machine. Compile the Solution.java file: javac Solution.java
+
+Run the Solution: Create test cases for the lowestCommonAncestor method in a main function, or integrate it with a testing framework to verify its correctness.
+
+Testing: You can use online IDEs like LeetCode to test the solution with custom test cases.
+
+
+
+Note: In the video solution, lowestCommonAncestor is referred to as LCA as the method name.
