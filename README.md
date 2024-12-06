@@ -46,7 +46,7 @@ Clone the Repository:
 
 git clone https://github.com/your-username/LeetCode-235.git
 
-cd lowest-common-ancestor-bst
+cd LeetCode-235
 
 Compile the Code: Ensure you have Java installed on your machine. 
 
